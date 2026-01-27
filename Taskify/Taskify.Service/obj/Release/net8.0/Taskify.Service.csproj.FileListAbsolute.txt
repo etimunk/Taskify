@@ -1,0 +1,16 @@
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\bin\Release\net8.0\Taskify.Service.deps.json
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\bin\Release\net8.0\Taskify.Service.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\bin\Release\net8.0\Taskify.Service.pdb
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\bin\Release\net8.0\Taskify.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\bin\Release\net8.0\Taskify.Core.pdb
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\Taskify.Service.csproj.AssemblyReference.cache
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\Taskify.Service.GeneratedMSBuildEditorConfig.editorconfig
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\Taskify.Service.AssemblyInfoInputs.cache
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\Taskify.Service.AssemblyInfo.cs
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\Taskify.Service.csproj.CoreCompileInputs.cache
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\Taskify.Service.sourcelink.json
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\Taskify..C5E4A70B.Up2Date
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\Taskify.Service.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\refint\Taskify.Service.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\Taskify.Service.pdb
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Service\obj\Release\net8.0\ref\Taskify.Service.dll

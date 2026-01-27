@@ -1,0 +1,312 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\testproject1\\tasktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|solutionrelative:testproject1\\tasktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\testproject1\\projecttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|solutionrelative:testproject1\\projecttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\testproject1\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|solutionrelative:testproject1\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\testproject1\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|solutionrelative:testproject1\\usertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\testproject1\\taskifytest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D51A91D3-CFC2-46C8-B159-BAFFD1AAD63F}|TestProject1\\TaskifyTest.csproj|solutionrelative:testproject1\\taskifytest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\taskify.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\taskify.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|t:\\group b\\netcore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\taskify\\taskify\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBCC3AC1-14DB-490F-924C-9A17090D2F16}|Taskify\\Taskify.csproj|solutionrelative:taskify\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Taskify.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Taskify\\Taskify.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|T:\\Group B\\NetCore\\\u05DE\u05D5\u05E8\u05D4\\Student\\Student\\Controllers\\StudentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\FakeContext.cs",
+              "RelativeDocumentMoniker": "TestProject1\\FakeContext.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\FakeContext.cs",
+              "RelativeToolTip": "TestProject1\\FakeContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:59:42.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskifyTest.csproj",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\TaskifyTest.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\TaskifyTest.csproj",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\TaskifyTest.csproj",
+              "RelativeToolTip": "TestProject1\\TaskifyTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T08:36:47.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserTest.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\UserTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\UserTest.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\UserTest.cs",
+              "RelativeToolTip": "TestProject1\\UserTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:39:49.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskTest.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\TaskTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\TaskTest.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\TaskTest.cs",
+              "RelativeToolTip": "TestProject1\\TaskTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:39:24.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectTest.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\ProjectTest.cs",
+              "RelativeDocumentMoniker": "TestProject1\\ProjectTest.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\TestProject1\\ProjectTest.cs",
+              "RelativeToolTip": "TestProject1\\ProjectTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:38:58.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Program.cs",
+              "RelativeDocumentMoniker": "Taskify\\Program.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Program.cs",
+              "RelativeToolTip": "Taskify\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T08:33:45.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Taskify\\appsettings.Development.json",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\appsettings.Development.json",
+              "RelativeToolTip": "Taskify\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T08:33:42.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\appsettings.json",
+              "RelativeDocumentMoniker": "Taskify\\appsettings.json",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\appsettings.json",
+              "RelativeToolTip": "Taskify\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T08:33:36.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Taskify\\Controllers\\UserController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Taskify\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:28:24.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "Taskify\\Controllers\\TaskController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "Taskify\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:28:20.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Taskify.csproj",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Taskify.csproj",
+              "RelativeDocumentMoniker": "Taskify\\Taskify.csproj",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Taskify.csproj",
+              "RelativeToolTip": "Taskify\\Taskify.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-28T12:56:14.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "Taskify\\Controllers\\ProjectController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "Taskify\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:25:08.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Project.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Taskify\\Entities\\Project.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Entities\\Project.cs",
+              "RelativeToolTip": "Taskify\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:24:10.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Task.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "Taskify\\Entities\\Task.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Entities\\Task.cs",
+              "RelativeToolTip": "Taskify\\Entities\\Task.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:24:08.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Taskify\\Entities\\User.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Entities\\User.cs",
+              "RelativeToolTip": "Taskify\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:23:33.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05DE\u05D5\u05E8\u05D4\\Student\\Student\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05DE\u05D5\u05E8\u05D4\\Student\\Student\\Controllers\\StudentsController.cs",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05DE\u05D5\u05E8\u05D4\\Student\\Student\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05DE\u05D5\u05E8\u05D4\\Student\\Student\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:27:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Taskify.csproj.user",
+              "DocumentMoniker": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Taskify.csproj.user",
+              "RelativeDocumentMoniker": "Taskify\\Taskify.csproj.user",
+              "ToolTip": "T:\\Group B\\NetCore\\\u05D0\u05EA\u05D9 \u05DE\u05D5\u05E0\u05E7\\project\\Taskify\\Taskify\\Taskify.csproj.user",
+              "RelativeToolTip": "Taskify\\Taskify.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-10-28T12:58:36.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

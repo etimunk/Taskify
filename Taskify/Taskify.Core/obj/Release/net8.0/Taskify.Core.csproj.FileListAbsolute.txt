@@ -1,0 +1,12 @@
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\bin\Release\net8.0\Taskify.Core.deps.json
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\bin\Release\net8.0\Taskify.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\bin\Release\net8.0\Taskify.Core.pdb
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\obj\Release\net8.0\Taskify.Core.GeneratedMSBuildEditorConfig.editorconfig
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\obj\Release\net8.0\Taskify.Core.AssemblyInfoInputs.cache
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\obj\Release\net8.0\Taskify.Core.AssemblyInfo.cs
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\obj\Release\net8.0\Taskify.Core.csproj.CoreCompileInputs.cache
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\obj\Release\net8.0\Taskify.Core.sourcelink.json
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\obj\Release\net8.0\Taskify.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\obj\Release\net8.0\refint\Taskify.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\obj\Release\net8.0\Taskify.Core.pdb
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\obj\Release\net8.0\ref\Taskify.Core.dll

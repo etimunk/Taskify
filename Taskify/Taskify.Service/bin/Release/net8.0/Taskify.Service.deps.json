@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Taskify.Service/1.0.0": {
+        "dependencies": {
+          "Taskify.Core": "1.0.0"
+        },
+        "runtime": {
+          "Taskify.Service.dll": {}
+        }
+      },
+      "Taskify.Core/1.0.0": {
+        "runtime": {
+          "Taskify.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taskify.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Taskify.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
