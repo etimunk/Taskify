@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "j6sKRGA9/KY=",
+  "success": false,
+  "projectFilePath": "T:\\Group B\\NetCore\\אתי מונק\\project\\Taskify\\TaskifyTest\\TaskifyTest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The underlying connection was closed: An unexpected error occurred on a send.\r\n  The handshake failed due to an unexpected packet format.",
+      "libraryId": "Selenium.WebDriver"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The underlying connection was closed: An unexpected error occurred on a send.\r\n  The handshake failed due to an unexpected packet format.",
+      "libraryId": "MSTest.TestFramework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The underlying connection was closed: An unexpected error occurred on a send.\r\n  The handshake failed due to an unexpected packet format.",
+      "libraryId": "Microsoft.NET.Test.Sdk"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  The underlying connection was closed: An unexpected error occurred on a send.\r\n  The handshake failed due to an unexpected packet format.",
+      "libraryId": "MSTest.TestAdapter"
+    }
+  ]
+}

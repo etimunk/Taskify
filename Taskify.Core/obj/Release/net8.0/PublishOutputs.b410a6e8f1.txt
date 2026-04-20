@@ -1,0 +1,3 @@
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\bin\Release\net8.0\publish\Taskify.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\bin\Release\net8.0\publish\Taskify.Core.deps.json
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Core\bin\Release\net8.0\publish\Taskify.Core.pdb

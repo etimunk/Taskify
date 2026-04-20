@@ -1,0 +1,121 @@
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.AssemblyReference.cache
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfoInputs.cache
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfo.cs
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.sourcelink.json
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.deps.json
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.runtimeconfig.json
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.dll
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.pdb
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.dll
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.pdb
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify..7CEF2F8E.Up2Date
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.dll
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
+T:\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.deps.json
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.runtimeconfig.json
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.pdb
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.pdb
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.AssemblyReference.cache
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.GeneratedMSBuildEditorConfig.editorconfig
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfoInputs.cache
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfo.cs
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.CoreCompileInputs.cache
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.sourcelink.json
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify..7CEF2F8E.Up2Date
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
+\\ZZ-FILESRV\Handesaim2\Group B\NetCore\אתי מונק\project\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.deps.json
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.runtimeconfig.json
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.pdb
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.dll
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.pdb
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify..7CEF2F8E.Up2Date
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\שעורי בית\project\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.deps.json
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.dll
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.pdb
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.dll
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.pdb
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.AssemblyReference.cache
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfoInputs.cache
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfo.cs
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.CoreCompileInputs.cache
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify..7CEF2F8E.Up2Date
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.dll
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll
+E:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.deps.json
+E:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.runtimeconfig.json
+E:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.dll
+E:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.pdb
+E:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.dll
+E:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.pdb
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.AssemblyReference.cache
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfoInputs.cache
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfo.cs
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.CoreCompileInputs.cache
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify..7CEF2F8E.Up2Date
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.dll
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
+E:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.runtimeconfig.json
+T:\Group B\NetCore\יעל וייסמן\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
+D:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.deps.json
+D:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.runtimeconfig.json
+D:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.dll
+D:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.pdb
+D:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.dll
+D:\netcore\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.pdb
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.AssemblyReference.cache
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfoInputs.cache
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfo.cs
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.CoreCompileInputs.cache
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify..7CEF2F8E.Up2Date
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.dll
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
+D:\netcore\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.deps.json
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.runtimeconfig.json
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.dll
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.pdb
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.dll
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.pdb
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify..7CEF2F8E.Up2Date
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.dll
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\הנדסת תוכנה שנה ב\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll

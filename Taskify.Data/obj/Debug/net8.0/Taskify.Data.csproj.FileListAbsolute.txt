@@ -1,0 +1,17 @@
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.deps.json
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.runtimeconfig.json
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Data.pdb
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\bin\Debug\net8.0\Taskify.Core.pdb
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.AssemblyInfo.cs
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify..7CEF2F8E.Up2Date
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll
