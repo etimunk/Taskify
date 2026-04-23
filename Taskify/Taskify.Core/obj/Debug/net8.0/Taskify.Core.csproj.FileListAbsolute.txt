@@ -45,3 +45,12 @@ D:\project\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.dll
 D:\project\Taskify\Taskify.Core\obj\Debug\net8.0\refint\Taskify.Core.dll
 D:\project\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.pdb
 D:\project\Taskify\Taskify.Core\obj\Debug\net8.0\ref\Taskify.Core.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.AssemblyInfo.cs
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.sourcelink.json
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Core\obj\Debug\net8.0\refint\Taskify.Core.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Core\obj\Debug\net8.0\Taskify.Core.pdb

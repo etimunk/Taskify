@@ -15,3 +15,4 @@ C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\ob
 C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
 C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
 C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.sourcelink.json

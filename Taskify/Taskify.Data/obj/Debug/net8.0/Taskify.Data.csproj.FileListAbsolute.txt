@@ -68,3 +68,6 @@ D:\project\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
 D:\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb
 D:\project\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.genruntimeconfig.cache
 D:\project\Taskify\Taskify.Data\obj\Debug\net8.0\ref\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Data\obj\Debug\net8.0\refint\Taskify.Data.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Data\obj\Debug\net8.0\Taskify.Data.pdb

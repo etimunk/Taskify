@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 using Taskify.Core.Entities;
 using Taskify.Core.Repositories;
 using Taskify.Core.Servieces;
-using Taskify.Core.Servieces.Taskify.Core.Servieces;
 
 
 

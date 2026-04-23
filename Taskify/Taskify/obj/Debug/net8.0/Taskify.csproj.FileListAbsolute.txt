@@ -602,3 +602,6 @@ D:\project\Taskify\Taskify\obj\Debug\net8.0\scopedcss\bundle\Taskify.styles.css
 D:\project\Taskify\Taskify\obj\Debug\net8.0\Taskify.csproj.Up2Date
 D:\project\Taskify\Taskify\obj\Debug\net8.0\Taskify.genruntimeconfig.cache
 D:\project\Taskify\Taskify\obj\Debug\net8.0\ref\Taskify.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify\obj\Debug\net8.0\Taskify.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify\obj\Debug\net8.0\refint\Taskify.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify\obj\Debug\net8.0\Taskify.pdb

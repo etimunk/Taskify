@@ -60,3 +60,6 @@ D:\project\Taskify\Taskify.Service\bin\Debug\net8.0\Taskify.Core.dll
 D:\project\Taskify\Taskify.Service\bin\Debug\net8.0\Taskify.Core.pdb
 D:\project\Taskify\Taskify.Service\obj\Debug\net8.0\Taskify..C5E4A70B.Up2Date
 D:\project\Taskify\Taskify.Service\obj\Debug\net8.0\ref\Taskify.Service.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Service\obj\Debug\net8.0\Taskify.Service.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Service\obj\Debug\net8.0\refint\Taskify.Service.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\Taskify.Service\obj\Debug\net8.0\Taskify.Service.pdb

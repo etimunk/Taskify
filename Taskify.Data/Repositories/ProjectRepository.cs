@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -28,7 +28,9 @@ namespace Taskify.Data.Repositories
 
         public async Task<Project?> GetByIDAsync(int id)
         {
-            return await _context.projects.FirstOrDefaultAsync(p => p.Id == id);
+            return await _context.projects
+                .Include(p => p.Manager)
+                .FirstOrDefaultAsync(p => p.Id == id);
         }
 
         public void AddProject(Project project)

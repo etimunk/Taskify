@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using Taskify.Core.Entities;
 
 namespace Taskify.Data
@@ -32,6 +32,12 @@ namespace Taskify.Data
                 .WithMany(p => p.Tasks)  // לכל פרויקט יש מספר משימות
                 .HasForeignKey(t => t.ProjectId)  // המפתח הזר כאן הוא ProjectId
                 .OnDelete(DeleteBehavior.Restrict);  // מונע מחיקה אוטומטית של משימות אם פרויקט נמחק
+
+            modelBuilder.Entity<Project>()
+                .HasOne(p => p.Manager)
+                .WithMany()
+                .HasForeignKey(p => p.ManagerId)
+                .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

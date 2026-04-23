@@ -489,3 +489,6 @@ C:\Users\user1\Desktop\שעורי בית\project\Taskify\TestProject1\obj\Debug\
 C:\Users\user1\Desktop\שעורי בית\project\Taskify\TestProject1\obj\Debug\net8.0\TaskifyTest.pdb
 C:\Users\user1\Desktop\שעורי בית\project\Taskify\TestProject1\obj\Debug\net8.0\TaskifyTest.genruntimeconfig.cache
 C:\Users\user1\Desktop\שעורי בית\project\Taskify\TestProject1\obj\Debug\net8.0\ref\TaskifyTest.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\TestProject1\obj\Debug\net8.0\TaskifyTest.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\TestProject1\obj\Debug\net8.0\refint\TaskifyTest.dll
+C:\Users\user1\Desktop\שעורי בית\netCore project\Taskify\Taskify\TestProject1\obj\Debug\net8.0\TaskifyTest.pdb

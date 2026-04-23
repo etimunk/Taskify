@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3GcxnRngYr0=",
+  "dgSpecHash": "naLaJvzQkRE=",
   "success": true,
-  "projectFilePath": "D:\\project\\Taskify\\TestProject1\\TaskifyTest.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\שעורי בית\\netCore project\\Taskify\\Taskify\\TestProject1\\TaskifyTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -8,12 +8,27 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using Taskify.Core.Servieces.Taskify.Core.Servieces;
 using Microsoft.OpenApi.Models;
 using System.Linq;
 using System.Security.Claims;
+using System.Net.NetworkInformation;
 
 var builder = WebApplication.CreateBuilder(args);
+
+// Prevent noisy crash when a second dev instance starts on the same port.
+if (builder.Environment.IsDevelopment())
+{
+    var devPort = 5233;
+    var isPortInUse = IPGlobalProperties.GetIPGlobalProperties()
+        .GetActiveTcpListeners()
+        .Any(endpoint => endpoint.Port == devPort);
+
+    if (isPortInUse)
+    {
+        Console.WriteLine($"Development server is already running on http://localhost:{devPort}. Stop the existing instance before starting a new one.");
+        return;
+    }
+}
 
 // Add services to the container.
 builder.Services.AddControllers();
@@ -112,7 +127,10 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+if (!app.Environment.IsDevelopment())
+{
+    app.UseHttpsRedirection();
+}
 
 // חשוב: Authentication תמיד לפני Authorization
 app.UseAuthentication();

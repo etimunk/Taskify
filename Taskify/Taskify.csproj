@@ -20,6 +20,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Remove="Taskify\**\*.cs" />
+    <Compile Remove="Taskify.Core\**\*.cs" />
+    <Compile Remove="Taskify.Data\**\*.cs" />
+    <Compile Remove="Taskify.Service\**\*.cs" />
+    <Compile Remove="TaskifyTest\**\*.cs" />
+    <Compile Remove="TestProject1\**\*.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Content Update="appsettings %286%29.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

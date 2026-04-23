@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -30,7 +30,7 @@ namespace Taskify.Data.Repositories
         }
         public  async Task<Tasks> GetTaskByIdAsync(int id)
         {
-            return await _context.tasks.FirstAsync(t => t.Id == id);
+            return await _context.tasks.FirstOrDefaultAsync(t => t.Id == id);
         }
         public Tasks AddTaskAsync(Tasks task)
         {

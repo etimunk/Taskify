@@ -14,7 +14,7 @@ namespace Taskify.Core.DTOs
         public DateTime StartDate { get; set; }
         public DateTime DueDate { get; set; }
         public string Status { get; set; }
-        //public int ManagerId { get; set; }
+        public int ManagerId { get; set; }
     }
 
     public class ProjectExtendedDTO

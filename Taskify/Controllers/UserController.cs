@@ -1,95 +1,3 @@
-//using AutoMapper;
-//using Microsoft.AspNetCore.Mvc;
-//using Taskify.Core.DTOs;
-//using Taskify.Core.Entities;
-//using Taskify.Core.Servieces;
-
-//namespace Taskify.Controllers
-//{
-//    [Route("api/[controller]")]
-//    [ApiController]
-//    public class UserController : ControllerBase
-//    {
-//        private readonly IUserService _userService;
-//        private readonly IMapper _mapper;
-
-//        public UserController(IUserService userService, IMapper mapper)
-//        {
-//            _userService = userService;
-//            _mapper = mapper;
-//        }
-
-//        GET: api/<UserController>
-//        [HttpGet]
-//        public IActionResult Get()
-//        {
-//            var users = _userService.GetUsers();
-//            var usersDTO = _mapper.Map<List<UserDTO>>(users); // המרה מ-User ל-UserDTO
-//            return Ok(usersDTO);
-//        }
-
-//        GET api/<UserController>/5
-//        [HttpGet("{id}")]
-//        public ActionResult Get(int id)
-//        {
-//            var user = _userService.GetUserByID(id);
-//            if (user == null)
-//                return NotFound();
-
-//            var userDto = _mapper.Map<UserDTO>(user); // המרה מ-User ל-UserDTO
-//            return Ok(userDto);
-//        }
-
-//        POST api/<UserController>
-//        [HttpPost]
-//        public ActionResult Post([FromBody] UserDTO value)
-//        {
-//            var existingUser = _userService.GetUserByID(value.Id);
-//            if (existingUser != null)
-//            {
-//                return Conflict(); // אם כבר קיים
-//            }
-
-//            var user = _mapper.Map<User>(value); // המרה מ-UserDTO ל-User
-//            _userService.AddUser(user); // הוספת המשתמש
-//            var createdUserDTO = _mapper.Map<UserDTO>(user); // המרה מ-User ל-UserDTO
-//            return CreatedAtAction(nameof(Get), new { id = createdUserDTO.Id }, createdUserDTO);
-//        }
-
-//        PUT api/<UserController>/5
-//        [HttpPut("{id}")]
-//        public ActionResult Put(int id, [FromBody] UserDTO value)
-//        {
-//            var existingUser = _userService.GetUserByID(id);
-//            if (existingUser == null)
-//            {
-//                return NotFound(); // אם לא נמצא
-//            }
-
-//            ממפה את הנתונים החדשים ל - User
-//            var userToUpdate = _mapper.Map<User>(value);
-//            userToUpdate.Id = id; // לוודא שה-Id נשאר אותו דבר
-
-//            _userService.UpdateUser(userToUpdate); // מעדכן את המשתמש
-//            var updatedUserDTO = _mapper.Map<UserDTO>(userToUpdate); // ממפה ל-UserDTO
-//            return Ok(updatedUserDTO);
-//        }
-
-//        DELETE api/<UserController>/5
-//        [HttpDelete("{id}")]
-//        public ActionResult Delete(int id)
-//        {
-//            var user = _userService.GetUserByID(id);
-//            if (user == null)
-//            {
-//                return NotFound(); // אם לא נמצא
-//            }
-
-//            _userService.DeleteUser(id); // מוחק את המשתמש
-//            return NoContent(); // אין תוכן אחרי מחיקה
-//        }
-//    }
-//}
 
 
 
@@ -111,11 +19,15 @@ namespace Taskify.Controllers
     public class UserController : ControllerBase
     {
         private readonly IUserService _userService;
+        private readonly IProjectService _projectService;
+        private readonly ITaskService _taskService;
         private readonly IMapper _mapper;
 
-        public UserController(IUserService userService, IMapper mapper)
+        public UserController(IUserService userService, IProjectService projectService, ITaskService taskService, IMapper mapper)
         {
             _userService = userService;
+            _projectService = projectService;
+            _taskService = taskService;
             _mapper = mapper;
         }
 
@@ -151,6 +63,62 @@ namespace Taskify.Controllers
 
             var userDto = _mapper.Map<UserDTO>(user);
             return Ok(userDto);
+        }
+
+        // GET api/<UserController>/manager/5/workers
+        [HttpGet("manager/{managerId}/workers")]
+        [Authorize(Roles = "manager,headmanager")]
+        public async Task<ActionResult<IEnumerable<UserDTO>>> GetWorkersByManager(int managerId)
+        {
+            var email = User.FindFirst(ClaimTypes.Email)?.Value;
+            var role = User.FindFirst(ClaimTypes.Role)?.Value;
+            var currentUser = await _userService.GetUsersByEmailAndRoleAsync(email, role);
+
+            if (currentUser == null) return Unauthorized();
+
+            // A regular manager can only query within their own scope.
+            if (string.Equals(role, "manager", StringComparison.OrdinalIgnoreCase) && currentUser.Id != managerId)
+            {
+                return Forbid();
+            }
+
+            var projects = await _projectService.GetProjectsByManagerIdAsync(managerId);
+            if (projects == null || projects.Count == 0)
+            {
+                return Ok(new List<UserDTO>());
+            }
+
+            var workerIds = new HashSet<int>();
+            foreach (var project in projects)
+            {
+                var tasks = await _taskService.GetTasksByProjectIdAsync(project.Id);
+                foreach (var task in tasks)
+                {
+                    workerIds.Add(task.UserId);
+                }
+            }
+
+            var allUsers = await _userService.GetUsersAsync();
+            var workers = allUsers
+                .Where(u =>
+                    workerIds.Contains(u.Id) &&
+                    string.Equals(u.Level.ToString(), "worker", StringComparison.OrdinalIgnoreCase))
+                .ToList();
+
+            return Ok(_mapper.Map<List<UserDTO>>(workers));
+        }
+
+        // GET api/<UserController>/workers
+        [HttpGet("workers")]
+        [Authorize(Roles = "manager,headmanager")]
+        public async Task<ActionResult<IEnumerable<UserDTO>>> GetAllWorkers()
+        {
+            var allUsers = await _userService.GetUsersAsync();
+            var workers = allUsers
+                .Where(u => string.Equals(u.Level.ToString(), "worker", StringComparison.OrdinalIgnoreCase))
+                .ToList();
+
+            return Ok(_mapper.Map<List<UserDTO>>(workers));
         }
 
         // POST api/<UserController>
